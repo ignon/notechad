@@ -1,0 +1,13 @@
+@name Klassinen todennäköisyys
+
+Alkeistapaukset ovat symmetrisiä, jos ne poikkeavat toisistaan vain nimillään.
+
+Tällöin A todennäköisyys
+	P(A) = nA / n
+	- nA = tapauhtuman A toteuttavien (eli suotuisten) alkeistapausten lukumäärä, ts. Ω:n osajoukon A alkioiden määrä
+
+Tätä kutsutaan klassiseksi todennäköisyydeksi. 
+Nsuotuisa + Nepäsuotuisa = n
+
+@tags klassinen_todennäköisyys, alkeistapaus, osajoukko
+@date 1812 

@@ -1,0 +1,11 @@
+@name Aksiomaattinen todennäköisyys
+Andrei N. Kolmogorov teki todennäköisyyslaskennasta lopullisesti matematiikkaa luomalla todennäköisyyden aksioomajärjestelmän mittateorian avulla 1933.
+
+Todennäköisyysaksiomaat:
+1. Jokaisen tapahtuman todennäköisyys on vähintään nolla.
+2. Koko perusjoukon todennäköisyys on 1
+3. Erillisten tapahtumien (ts. niillä ei ole yhteisiä alkeistapauksia) yhteinen todennäköisyys = tapahtumien todennäköisyyksien summa
+
+@tags aksiomaattinen, aksiooma, mittateoria, alkeistapaus, todennäköisyys
+
+@date 1933

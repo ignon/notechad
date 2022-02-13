@@ -1,0 +1,7 @@
+@name Kvalitatiivinen ja kvantitatiivinen tutkimus
+
+Voidaan jakaa kvalitatiiviseen ja kvantitatiiviseen tutkimukseen
+- Kvalitatiivinen: laadullinen tutkimus (kuvailevaa, ei-numeerista, tosin tilastometodiikkaa on kehitetty myös laadulliseen tutkimukseen)
+- Kvantitatiivinen: määrällinen tutkimus (numeerista tai numerisoitua, tilastotiede keskeistä)
+
+@tags kvalitatiivinen, kvantitatiivinen, laadullinen määrällinen

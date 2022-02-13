@@ -1,0 +1,8 @@
+@name Koneoppiminen
+
+Koneoppimisella luokitellaan automaattisesta ennalta tiedettyihin luokkiin.
+#Tekoäly oppii opetusdatan (kuvat, äänet, teksti etc) perusteella löytämään yhteisiä piirteitä kullekin luokalle.
+
+Opetusdataa voi kasvattaa uusilla oikeinluokitelluilla havainnoilla. 
+
+Neuroverkko (neural network) on tyypillinen koneoppimismetodi.

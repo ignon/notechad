@@ -1,0 +1,21 @@
+@name Normaalijakauma
+
+Normaalijakauma eli gaussinen jakauma (<- C. F. Gauss) eli kellokäyrä (normal distributin, Gaussian distributin) on keskeinen tilastotieteen teoriassa ja käytännössä sekä todennäköisyyslaskennassa.
+
+Abraham De Moivre (ranskal. matem.) huomasi kombinatoriikkaa tutkieessaan, että binomijakaumalla on rajajakauma toistojen määrän kasvaessa. Tämä on ensimmäinen versio normaalijakaumasta.
+
+Binomijakauma kertoo klaavojen kaikkien mahdollisten lukumäärien X todennäköisyydet X~Bin(n,p), missä x on 0, 1, ..., n, lantin tilallva voi olla mikä tahansa binäärinen eli diktonominenmuuttuja
+
+X~Bin(n,p)
+	- n = toistojen lukumäärä
+	- p = toisen lopputuloksen todennäköisyys
+	- X = binomijakautunut
+
+@tags normaalijakauma, gaussinen, binomijakauma, dikotominen, dikotomia, MOBILE
+@date 1794 
+
+1234
+Combinaatiot = 12, 13, 14 --> 23, 24 -> 34
+nCr(4,2) = 4! / (2! * (4-2)) = 1*2*3*4 / (1*2 * (2)) = 24 / 4 = 6
+
+Binomitodennäköisyys X-Bin(3, 0.5) = nCr(6,3)*0.5^3(1-0.5)^(6-3)

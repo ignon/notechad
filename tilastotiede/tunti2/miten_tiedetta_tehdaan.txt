@@ -1,0 +1,5 @@
+@name Miten tiedettä tehdään?
+Tieteen metodi on havaintoja ja teoriaa - sopivassa suhteessa.
+
+Teoriaa tarvitaan innoittamaan havaintoja, mutta havainnoille on jätettävä mahdollisuus sanoa teorialle ei.
+

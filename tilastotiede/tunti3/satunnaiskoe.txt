@@ -1,0 +1,8 @@
+@name Satunnaiskoe
+Tapahtumaa, jonka tulosta ei voi tietää etukäteen, sanotaan satunnaiskokeeksi (random experiment)
+Satunnaiskokeen mahdollisia tuloksia W1, W2, W3, ..., Wn kutsutaan alkeistapauksiksi (W, omega, keikan o)
+Alkeistapaukset muodostavat perusjoukon eli populaation Ω = {W1, W2, ..., Wn} (Ω, omega on kreikan O)
+
+@tags alkeustapaus
+
+

@@ -1,0 +1,15 @@
+@name JY:n tilastotieteen viimeaikaisia sovellustutkimuksia
+
+esim. Ennallistetun suon luonnontilaisuuden arviointi amebayhteisöjä vertaamalla
+- Virtavesian pohjaeläinten automaattinen tunnistaminen
+- Aivojen magneettikuvien analysointi
+- Hirvipopulaatioiden koon ja rakenteen mallintaminen
+- Suomen väkiluku 1647-1850
+- Tutkimusasetelmien optimointi #epidemiologia:ssa
+- Lasten leukemian lääkitysten yksilöllinen optimointi
+- Syy-seuraussuhde eli kausaliteettirakenteiden sieventäminen
+- Vastaajakadon mallintaminen terveystutkimuksessa
+- Silmän liikkeiden mallintaminen nuotinluvussa
+
+@tags malli, mallintaminen
+

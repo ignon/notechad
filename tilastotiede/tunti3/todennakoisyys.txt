@@ -1,0 +1,8 @@
+@name Todennäköisyys
+Moderni tilastotiede perustuu todennäköisyyslaskentaan. Sai alkunsa uhkapeliharrastuksesta 1500-1600-luvuilla.
+"Kannattaako lyödä vetoa, että neljällä nopalla saadaan ainakin yksi kuutonen?" [1 - (5/6)^4]
+Ensimmäisiä kehittäjiä: Blaise Pascal, Pierre de Fermat, Christiaan Hyugens, Jacob Bernoulli
+
+@date 1800-1950
+
+@tags todennäköisyys

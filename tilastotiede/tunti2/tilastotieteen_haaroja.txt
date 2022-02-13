@@ -1,0 +1,12 @@
+@name Tilastotieteen haaroja
+
+Eri sovellusaloilla on kehittynyt omia tilastotieteen haaroja kuten:
+- biometriikka (metodikehitystä, koesuunnittelu)
+- psykometriikka (mm. faktorianalyysi)
+- ekonometriikka	(erityisesti aikasarja-analyysi)
+- statistinen fysiikka	
+- teknometriikka
+- kemometriikka
+- environmentriikka 
+- sosiometriikka
+- jopa sabermetrics!

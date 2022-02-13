@@ -1,0 +1,14 @@
+@name Frekventistinen eli tilastollinen todennäköisyys
+
+Koetta toistaessa suotuisten tapahtumien osuus (empiirinen todennäköisyys) lähestyy mielivaltaisen tarkasti tapahtuman todennäköisyyttä.
+
+Antoine Augustin Cournot (n. 1840)
+
+Toistettaessa satunnaiskoetta n kertaa (tai tarkastellaan aineistoa jossa n havaintoa). Olkoon nA tapahtuman A esiintymiskertojen määrä tässä aineistossa. Tällöin A:n todennäköisyys voidaan määritellä raja-arvona
+
+P(A) = lim(n>infinity) nA / n
+
+Tätä kutsutaan frekventistiseksi eli tilastolliseksi todennäköisyydeksi. Se ei edellytä alkeistapahtumien symmetrisyyttä eikä perusjoukon äärellisyyttä, joten frekventistinen todennäköisyys laajentaa huomattavasti klassista tn-käsitettä.
+
+@tags frekventistinen, raja-arvo,tilastollinen_todennäköisyys
+@datetime 1840

@@ -1,0 +1,17 @@
+@name Todennäköisyyden käsite
+
+Todennäköisyyttä voidaan mallintaa useilla tavoilla, esim:
+- Mikä on tn, että lantinheitossa tulee klaava?
+- Mikä on tn, etä nasta jää heittäessä kannalleen (eikä piikin varaan?
+- Mitä tarkoittaa kun sääennusteen mukaan 2 tunnin päästä sataa 60%:n tn:llä?
+- Mikä tn että JYP voittaa seuraavan pelinsä?
+- Mikä tn:n että marrista löytyy elämää 5 vuodessa?
+
+Kommentteja esimerkkeihin:
+- Jos lantti todetaan "rehelliseksi" 1/2
+- Tehdään runsaasti toistoja ja lasketaan keskiarvo
+- Meteorologi simuloi mallin ja datan jolla suuren joukon sääennusteita. Sadeprosentti on niiden ennusteiden osuus, joissa sataa.
+- Hankala, koska toistoja ei saatavilla. Todennäköisyyttä voi mallintaa aiempaa historiaa hyödyntäen. #bayes:-tilastotiede.
+- Hankalin, #bayes:-tilastotiede auttaa tässäkin
+
+@tags todennäköisyys, bayes, malli

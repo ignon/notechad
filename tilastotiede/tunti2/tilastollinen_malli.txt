@@ -1,0 +1,23 @@
+@name Tilastollinen malli
+Malli kuvastaa tutkittavan ilmiön piirteitä funktionaalisesti. Jäljittelee ja yksinkertaistaa todellisuutta.
+
+Yi = Zi + ei, i = 1, 2, 3, ..., n
+	Yi = aineiston i havainto
+	Z = malli
+	Zi = mallin antama arvo havainnolle
+	ei = jäännöstermi eli residuaali (kuinka paljon mallin arvio [estimaatti] poikkeaa havainnosta), e=epsilon
+	
+Yksinkertainen lineaarinen regressiomalli (regressiosuora):
+	Y = a + bX,
+		Y = selitettävä muuttuja
+		X = selitettävä muuttuja
+		b = regressiokerroin (kulmakerroin)
+		a = vakiotermi
+		
+		Havaintopari (xi, yi), voidaan havaittuun arvoon yi verttata mallin antamaa estimaattia yi = a + bxi
+
+Modernit tilastolliset mallit usein laajoja ja niillä kuvattavissa hyvin monimutkaisia riippuvuussuhteita tutkittavassa ilmiössä ja sen aineistossa
+
+Tämän mahdollistanut #bayes-tilastotieteen ja tilastollisten laskentamenetelmien läpimurta 1990-luvulta alkaen. 
+
+@tags malli, mallintaminen, regressiomalli, residuaali, bayes

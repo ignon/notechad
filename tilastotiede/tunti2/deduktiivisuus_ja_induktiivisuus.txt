@@ -1,0 +1,20 @@
+@name Deduktiivisuus ja induktiivisuus
+
+Tieteet voidaan jakaa deduktiivisiin ja induktiivisiin. Ero on päättelyn suunnassa
+
+Deduktio:
+	Deduktiivisuus tarkoittaa etenemistä yleisestä lähtökohdasta erityistapaukseen (matematiikka, logiikka)
+
+	Perimmäisimäät lähtökohdat ovat sopimuksia, aksioomia. [premissit?] Niistä johdetaan loogisin päätelmin "tieteelliset totuudet". Aksioomat eivät ole johdettavissa mistään, mutta usein ne vastaavat arkikokemuksia tai ovat muuten käytönnöllisiä lähtökohtia.
+
+	AKSIOOMAT => loogisia päätelmiä => TEOREEMA
+
+Induktio:
+	Useimmat tieteet ovat empiirisiä, havaintoihin perustuvia. Niissä päättelysuunta on induktiivinen, yksittäisistä havainnoista edetään yleiseen periaatteeseen.
+
+	HYPOTEESI & riittävästi näyttöä yksittäistapauksista => FAKTA
+	
+Tieteelliseltä totuudelta vaaditaan tiedeyhteisön hyväksyntä, mitään muuta standardeja ei ole.
+
+@tags deduktio, induktio, aksiooma, empiirinen, hypoteesi
+@date 2020
